@@ -32,6 +32,7 @@ on:
           - "CYD-2432W328R-or-S024R"
           - "CYD-3248S035R"
           - "CYD-3248S035C"
+          - "JC4827W543"
           - "LAUNCHER_CYD-2432W328R-or-S024R"
           - "LAUNCHER_CYD-2432S028"
           - "LAUNCHER_CYD-2USB"
